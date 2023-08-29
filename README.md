@@ -1,6 +1,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-link: https://raja-k-tester.github.io/coursera/coursera-test/index.html
+link: raja-k-tester.github.io/coursera-test/
 
 Woo-hoo! You get to do some coding! Exciting!
 
